@@ -35,7 +35,7 @@
     "@mui/icons-material": "^7.1.0",
     "@mui/material": "^7.1.0",
     "@mui/x-date-pickers": "^8.3.0",
-    "@mui/x-tree-view": "^8.3.0",
+    "@mui/x-tree-view": "^8.14.1",
     "@projectstorm/react-diagrams": "^7.0.2",
     "@textea/json-viewer": "^4.0.0",
     "date-fns": "^4.1.0",
